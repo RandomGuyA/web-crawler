@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="Cp1252"?>
+<html><head /><body>
+<script><![CDATA[$(function() {
+            $('.tabContent .tab').hide();
+            $('.tabContent .tab:first').show();
+
+            $('.tabHeading li a').click(function(e) {
+                e.preventDefault();
+                $('.tabContent .tab').hide();
+                $('#' + $(this).attr('href') + '.tab').show();
+                $('.tabHeading li a').removeClass('active');
+                $(this).addClass('active');
+            });
+        });]]></script>
+<div class="login-register-wrap clearfix">
+<div class="login-register-header"> </div>
+<ul class="tabHeading clearfix">
+<li><a href="#login" id="login_tab" title="tab_1" data-id="1" class="active">Sign-In</a></li>
+<li><a href="#register" id="register_tab" title="tab_2" data-id="2">Register</a></li></ul>
+<ul class="tabContent">
+<li id="login" class="logintab tab">
+<div class="login-left">
+<form id="login">
+<input type="hidden" name="mode" value="login" />
+<div class="login-left">
+<div class="errors"></div>
+<label>Email</label>
+<input type="text" name="userEmail" id="userEmail" /><br />
+<label>Password</label>
+<input type="password" name="userPassword" id="userPassword" /><br />
+<input type="submit" value="Submit" />
+<a href="#" onclick="$(&apos;#register_tab&apos;).click();return false;">or Register for an account</a>
+<hr />
+<a href="/forgotten-password" class="fancyboxLink">Forgotten password?</a></div></form>
+<script type="text/javascript"><![CDATA[$(function() {
+            $('#login').submit(function(e) {
+                e.preventDefault();
+                var post = $('form#login').serialize();
+                $.post('/login-register', post, function (data) {
+                    if (data.success) {
+                        //document.location.reload();
+                        insertParam('logged_in', Math.round((new Date()).getTime() / 1000));
+                        //$.fancybox.close();
+                        $('.tabContent #login').html('
+<strong>Thank you for logging in. Please wait while we re-direct you back to the website....
+</strong>');
+                    } else {
+                        var errorHtml = '';
+                        for (i in data.errors) {
+                            errorHtml = errorHtml + data.errors[i].error + '
+<br />';
+                            $('#'+data.errors[i].field).addClass('error');
+                        }
+                        $('.errors').html(errorHtml).fadeIn('slow');
+                    }
+                }, 'json');
+            });
+        });
+
+        function insertParam(key, value)
+        {
+            key = escape(key); value = escape(value);
+
+            var kvp = document.location.search.substr(1).split('&');
+
+            var i=kvp.length; var x; while(i--)
+        {
+            x = kvp[i].split('=');
+
+            if (x[0]==key)
+            {
+                x[1] = value;
+                kvp[i] = x.join('=');
+                break;
+            }
+        }
+
+            if(i
+<0) {kvp[kvp.length] = [key,value].join('=');}
+
+            //this will reload the page, it's likely better to store this until finished
+            document.location.search = kvp.join('&');
+        }]]></script></div>
+<div class="login-right">
+<img src="/website/var/tmp/thumb_566__login_register.jpeg" alt="" title="" height="230" width="320" /></div></li>
+<li id="register" class="logintab tab">
+<div class="login-left">
+<div class="login-holder">
+<div class="errors" style="display:none;"></div>
+<form id="register" name="register" enctype="application/x-www-form-urlencoded" method="post" action="">
+<dl class="zend_form">
+<div class="register-line-wrap">
+<dt id="userForename-label"><label for="userForename" class="required">First Name *</label></dt>
+<dd id="userForename-element">
+<input type="text" name="userForename" id="userForename" value="" /></dd></div>
+<div class="register-line-wrap">
+<dt id="userSurname-label"><label for="userSurname" class="required">Second Name *</label></dt>
+<dd id="userSurname-element">
+<input type="text" name="userSurname" id="userSurname" value="" /></dd></div>
+<div class="register-line-wrap">
+<dt id="userEmail-label"><label for="userEmail" class="required">Email Address *</label></dt>
+<dd id="userEmail-element">
+<input type="text" name="userEmail" id="userEmail" value="" /></dd></div>
+<div class="register-line-wrap">
+<dt id="userContactNumber-label"><label for="userContactNumber" class="optional">Mobile Number</label></dt>
+<dd id="userContactNumber-element">
+<input type="text" name="userContactNumber" id="userContactNumber" value="" /></dd></div>
+<div class="register-line-wrap">
+<dt id="userPassword-label"><label for="userPassword" class="required">Password *</label></dt>
+<dd id="userPassword-element">
+<input type="password" name="userPassword" id="userPassword" value="" /></dd></div>
+<div class="register-line-wrap">
+<dt id="userPasswordConfirmation-label"><label for="userPasswordConfirmation" class="required">Confirm Password *</label></dt>
+<dd id="userPasswordConfirmation-element">
+<input type="password" name="userPasswordConfirmation" id="userPasswordConfirmation" value="" /></dd></div>
+<div class="register-line-wrap">
+<dt id="userNewsletterOptIn"><input type="hidden" name="userNewsletterOptIn" value="0" /><input type="checkbox" name="userNewsletterOptIn" id="userNewsletterOptIn" value="1" /><label for="userNewsletterOptIn" class="optional">Please check this box if you would like to be added to our mailing list</label></dt></div><br />
+<div class="register-line-wrap submit">
+<input type="submit" name="register" id="register" value="Register" />
+<input type="hidden" name="mode" value="register" /></div></dl></form></div>
+<script type="text/javascript"><![CDATA[$(function() {
+        $('#register').submit(function(e) {
+            e.preventDefault();
+            var post = $('form#register').serialize();
+            $.post('/login-register', post, function (data) {
+                if (data.success) {
+                    document.location.reload();
+                    $.fancybox.close();
+                } else {
+                    var errorHtml = '';
+                    for (i in data.errors) {
+                        errorHtml = errorHtml + data.errors[i].error + '
+<br />';
+                        $('#'+data.errors[i].field).addClass('error');
+                    }
+                    $('.errors').html(errorHtml).fadeIn('slow');
+                }
+            }, 'json');
+        });
+    });]]></script></div>
+<div class="login-right"></div></li></ul></div><!--register-login-wrap//-->
+<script><![CDATA[/*jQuery(function() {
+        var initial_tab = '';
+        jQuery('.tabHeading li a').click(function(e) {
+            e.preventDefault();
+            var href = $(this).attr('href');
+            $('.tabHeading li a').removeClass('active');
+            $(this).addClass('active');
+            $('.tabHeading li').removeClass('active');
+
+            jQuery('.logintab').hide();
+            jQuery(href).show();
+            return false;
+        });
+        jQuery('#'+initial_tab).show();
+        jQuery('.tabHeading li a[href=#'+initial_tab+']').parent('li').addClass('active');
+    });*/]]></script></body></html> link98754-http://www.breconbeacons.org/login-register?login 

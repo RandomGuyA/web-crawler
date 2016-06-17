@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+    <var-def name="datestring">
+        <file action="read" path="date.txt"></file>
+    </var-def>
+    <var-def name="webpage">
+        <html-to-xml>
+            <http url="http://scores.espn.go.com/ncb/scoreboard?date=20121124"/>
+        </html-to-xml>
+    </var-def>
+
+    <loop item="currGame">
+        <list>
+            <xpath expression="(//div[contains(@class,'final-state')])">
+                <var name="webpage"/>
+            </xpath>
+        </list>
+        <body>
+            <var-def name="visitor">
+                <xpath expression="(//div[@class='team visitor'])[1]//a[@title]/text()">
+                    <var name="currGame"/>
+                </xpath>
+            </var-def>
+            <var-def name="visitorScore">
+                <xpath expression="(//li[@class='final'])[2]//text()">
+                    <var name="currGame"/>
+                </xpath>
+            </var-def>
+            <var-def name="home">
+                <xpath expression="(//div[@class='team home'])[1]//a[@title]/text()">
+                    <var name="currGame"/>
+                </xpath>
+            </var-def>
+            <var-def name="homeScore">
+                <xpath expression="(//li[@class='final'])[3]//text()">
+                    <var name="currGame"/>
+                </xpath>
+            </var-def>
+            <file action="append" type="text" path="scores.txt">
+                <template>
+                    ${visitor} ${visitorScore} ${home} ${homeScore} ${sys.cr}${sys.lf}
+                </template>
+            </file>
+        </body>
+    </loop>
+</config>
