@@ -200,7 +200,15 @@ function deleteAndGetLineFromFile ($fileName, $delete){
 
     foreach($data as $line) {
 
-        str_replace('”', '"', $line);
+        $arr = str_split($line);
+        foreach($arr as $char){
+            if(ord($char)=="E2809D"){
+                echo "<br/>" . ord($char);
+            }
+
+        }
+
+        //str_replace('”', '"', $line);
         
         if(strpos($line, $delete)){
             $delete = $line;

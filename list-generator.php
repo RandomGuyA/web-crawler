@@ -5,6 +5,8 @@ require_once "php/init.php";
 $rootpath = 'structure/';
 $pathnames = getListOfPathNamesOfDirectory($rootpath);
 
+echo count($pathnames);
+
 $search = "link98754";
 $fileName = "list.csv";
 $csv = fopen($fileName, "w");
@@ -36,13 +38,14 @@ foreach($pathnames as $key=>$path){
         $count = countWordsInfile("data.txt");
         $handle = fopen ("data.txt", "w+");
         fclose($handle);
-
+        $file = str_replace('\\', ',',  $file);git 
         $line = "";
-        $line .= $file . ",";
-        $line .= $count . ",\n";
+        $line .= $count . ",";
+        $line .= $file . ",\n";
+
 
         fwrite($csv, $line);
 }
 fclose($csv);
 
-arrayToString($pathnames);
+//arrayToString($pathnames);

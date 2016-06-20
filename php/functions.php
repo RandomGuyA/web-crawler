@@ -10,18 +10,13 @@ function arrayToString($array){
 function simpleXmlSearch($xml){
 
 	foreach ($xml->children() as $child) {
-		// echo "<br/>" . $child->getName();
+
+		//echo "<br/>" . $child->getName();
 		//echo "<br/>" . $child->attributes;
 
 		foreach($child->attributes() as $attr => $value) {
 
 			if($attr == "class"){
-
-				/*
-				echo "<br/>" . $child->getName();
-				echo "<br/>" . $child->attributes;
-				echo $attr,'="',$value,"\"\n";
-                */
 
 				$classes = explode(" ", $value);
 
