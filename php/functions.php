@@ -1,65 +1,5 @@
 <?php
 
-function csv_to_array($filename='', $delimiter=',')
-{
-	if(!file_exists($filename) || !is_readable($filename))
-		return FALSE;
-
-	$header = NULL;
-	$data = array();
-	if (($handle = fopen($filename, 'r')) !== FALSE)
-	{
-		while (($row = fgetcsv($handle, 1000, $delimiter)) !== FALSE)
-		{
-			if(!$header)
-				$header = $row;
-			else
-				$data[] = array_combine($header, $row);
-		}
-		fclose($handle);
-	}
-	return $data;
-}
-
-function readTxtFile($filename){
-
-	$file = fopen($filename,"r");
-
-	$urls = array();
-
-	while(! feof($file))
-	{
-		array_push($urls, fgets($file));
-	}
-
-	fclose($file);
-
-	return $urls;
-}
-
-function dirToArray($dir) {
-
-	$result = array();
-
-	$cdir = scandir($dir);
-	foreach ($cdir as $key => $value)
-	{
-		if (!in_array($value,array(".","..")))
-		{
-			if (is_dir($dir . DIRECTORY_SEPARATOR . $value))
-			{
-				$result[$value] = dirToArray($dir . DIRECTORY_SEPARATOR . $value);
-			}
-			else
-			{
-				$result[] = $value;
-			}
-		}
-	}
-
-	return $result;
-}
-
 function arrayToString($array){
 
 	echo '<pre>';
@@ -67,12 +7,62 @@ function arrayToString($array){
 	echo '</pre>';
 }
 
-function loadXML($fileName){
-	if (file_exists($fileName)) {
-		$xml = simplexml_load_file($fileName);
+function simpleXmlSearch($xml){
 
-		return $xml;
-	} else {
-		exit('Failed to open '. $fileName);
+	foreach ($xml->children() as $child) {
+		// echo "<br/>" . $child->getName();
+		//echo "<br/>" . $child->attributes;
+
+		foreach($child->attributes() as $attr => $value) {
+
+			if($attr == "class"){
+
+				/*
+				echo "<br/>" . $child->getName();
+				echo "<br/>" . $child->attributes;
+				echo $attr,'="',$value,"\"\n";
+                */
+
+				$classes = explode(" ", $value);
+
+				foreach($classes as $class){
+					if($class=="main-content"){
+						//echo "<br/>" . $class;
+						//arrayToString($child);
+
+						$fileName = "data.txt";
+						$file = fopen($fileName, "w");
+
+						nodesToStringRecursiveSearch($child, $file);
+						fclose($file);
+						countWordsInfile($fileName);
+					}
+				}
+			}
+		}
+		simpleXmlSearch($child);
 	}
+}
+
+function nodesToStringRecursiveSearch($node, $file){
+
+	foreach ($node->children() as $childNode) {
+
+		//echo "<br/>" .$childNode->__toString();
+		fwrite($file, $childNode->__toString());
+
+		foreach ($childNode->children() as $grandChildNode) {
+
+			//echo "<br/>" .$grandChildNode->__toString();
+			fwrite($file, $grandChildNode->__toString());
+
+			nodesToStringRecursiveSearch($grandChildNode, $file);
+		}
+	}
+
+}
+
+function countWordsInfile($fileName){
+	$wordcount =  str_word_count(file_get_contents($fileName));
+	return $wordcount;
 }
