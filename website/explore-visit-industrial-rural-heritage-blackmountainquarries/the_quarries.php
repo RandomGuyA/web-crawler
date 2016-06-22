@@ -1,0 +1,22 @@
+<?php require_once "../../php/init.php"; ?><html><head><meta charset="utf-8"><title>The Quarries  - Brecon Beacons National Park, Wales</title><script type='text/javascript' src='../../js/main.min.js'></script></head><body><div class="main-content clearfix">
+<!--SearchStart//-->
+<h1>The Quarries</h1>
+<div class="article-video right clearfix"/>
+<p>The beautiful Black Mountain bears intriguing scars of a forgotten industry that helped create the Wales we know today. Along the western edge of the Brecon Beacons National Park and within the Fforest Fawr Geopark, the Black Mountain lies between the rural and the industrial realms of south Wales. Today the mountain is valued as an unspoilt natural landscape, but for centuries, the peace was shattered when limestone was blasted from the hillside and burnt in kilns to make lime. Quarries, kilns and spoil tips, the remnants of this once bustling industry, have shaped the northern slopes of the mountain creating a fascinating place to explore and discover the secrets of a forgotten industry.
+<br/>
+<img src="/website/var/tmp/thumb_5885__auto_850904660de984af948beee3aee98a4f.jpeg" style="width:600px;"/><br/>
+<br/>Lime has many uses: it is an ingredient in building materials like plaster, mortar, putty and paint. It is also used in many industrial processes such as iron production and glass making. This made lime vital for building the towns and factories that grew as the industrial revolution developed in Wales. The isolation of the Black Mountain Quarries, however, and their reliance on road transport, made them unattractive to industrial entrepreneurs. Instead, it seems local families leased the quarries from the Cawdor Estate and were responsible for the making and selling the lime.
+<br/>Â 
+<br/>The lime made on the Black Mountain was mostly used in agriculture. Throughout the 19
+<sup>th</sup>century, farmers would travel from far and wide by horse and cart to collect lime which they spread on their fields. Lime was used to reduce the acidity of poor soils, making them more fertile and productive. Increased productivity enabled the agricultural economy to develop and helped feed the new urban populations growing up in the industrial areas of South Wales.
+<br/>Â 
+<br/>The huge demand for agricultural lime led the building of new â€˜turnpikeâ€™ roads to cope with the traffic of lime carts. The network of roads leading to the Black Mountain are a result of the expansion of the industry during the 19
+<sup>th</sup>Century. Tolls charged for transporting lime on the new roads rose ever higher. Eventually in 1839, following years of poor harvests, and rising taxes, the additional cost of tolls for transporting lime to their farms, became one of the reasons for the outbreak of the famous â€˜Rebecca Riotsâ€™. The desperate rural population could take no more. Mobs disguised in womenâ€™s clothing rose up to destroy the toll gates set up on the roads.
+<br/>Â 
+<br/>Cheap imported grain and the development of chemical fertilisers led to a decline in the demand for lime. By the end of the 19
+<sup>th</sup>century the Black Mountain Quarries were mostly abandoned, but lime continued to be made whenever there was a demand. The quarries finally closed in 1958.
+<br/>Â 
+<br/>Lime was made by burning limestone with coal in the numerous kilns on the site. At around 1000
+<sup>0</sup>C the limestone changes into Calcium oxide or â€˜quicklimeâ€™. This useful substance is chemically unstable and when mixed with water undergoes a violent chemical reaction releasing a lot of heat, so the job of digging quicklime out of the kilns was hot, unpleasant and dangerous work!</p>
+<!--SearchEnd//-->
+<div class="hightlights"/></div></body></html>

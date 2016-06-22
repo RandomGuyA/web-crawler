@@ -1,0 +1,50 @@
+<?php require_once "../../php/init.php"; ?><html><head><meta charset="utf-8"><title>Birds - Brecon Beacons National Park, Wales</title><script type='text/javascript' src='../../js/main.min.js'></script></head><body><div class="main-content clearfix">
+<!--SearchStart//-->
+<h1>Birds in the Brecon Beacons National Park</h1>
+<div class="article-video right clearfix"/>
+<p/><p>
+<span style="font-size:18px;">Birdwatchers visit the Brecon Beacons National Park to see red kites, tawny owls and red grouse, along with endangered species such as lapwings, little ringed plovers, nightjars and reed warblers. From parks and gardens alive with song birds to harriers and ring ouzels in the uplands, birds can be seen all over our Park.</span></p>
+<h2>Lapwings</h2>
+<img src="/website/var/tmp/thumb_1130__auto_be03f9979a059d756f5c7f0b74b7d3d8.jpeg" style="width: 300px; height: 442px; margin-left: 15px; margin-right: 15px; float: right;"/>
+<p>The lapwing is a ground-nesting bird, with beautiful iridescent green colouring on its back, a rounded wing shape in flight and a crest on its head. It has a number of common names including peewit, derived from their distinctive call.</p>
+<p>Lapwings are very social birds which form large flocks, relying on mass-mobbing to deter predators during the breeding season. In winter, their numbers are bolstered by birds migrating from eastern Europe.</p>
+<p>They breed and roost on farmland with spring-sown crops, open damp grasslands or moorlands close to a mixture of arable fields and permanent grasslands, that can provide them with a constant supply of worms and insects to feed on. In winter you may see them in ploughed fields and flooded grasslands.</p>
+<p>Lapwing populations have suffered catastrophic declines over the last 25 years. Unfortunately this is still happening and in Wales the situation is getting worse. The number of breeding pairs plumetted from around 13,000 in 1970 to under 2000 in 1998. This was due to habitat loss through more intensive farming and drainage, nests being disturbed or destroyed by ploughing, grazing livestock or country pursuits, depletion of food sources due to chemicals and increased predation by foxes and buzzards.</p>
+<h2>Little ringed plovers</h2>
+<p>One of our recent conservation success stories has been the increase in the population of little ringed plovers in British waters. First recorded in the UK in 1938, these annual visitors now typically exceed 1000 in number. They visit the Brecon Beacons National Park every spring to breed on the gravel banks of rivers and lakes, especially on the River Wye below Glasbury and on the Usk between Brecon and Talybont.</p>
+<p>Although these birds are quite resistant to disturbance, we can help them survive if picnickers, swimmers, anglers and canoeists take care to avoid the gravel banks where they nest between March and July.</p>
+<h2>Nightjars</h2>
+<p>
+<img src="/website/var/tmp/thumb_1721__auto_1f919be63e4f4a2766afa6e2beabe136.jpeg" style="width: 300px; height: 191px; float: right; margin-left: 15px; margin-right: 15px;"/>This secretive, nocturnal bird is a summer visitor to the Brecon Beacons National Park. Its mottled brown and grey feathers keep it concealed on the ground during the day until evening when its distinct churring song may give it away.</p>
+<p>Nightjars are found on heaths and moors, but more recently they have favoured nesting on areas of recently cleared coniferous plantation. They are becoming more common in Mid Wales, where many conifer plantations have reached harvesting age and are being felled.</p>
+<h2>Reed warblers</h2>
+<p>The reed warbler is a plain, unstreaked warbler. Its feathers are warm brown in colour above and buff underneath.</p>
+<p>Reed warblers are summer visitors to the UK. They breed in the lowlands of central and southern England and Wales, particularly in East Anglia and the south coast of England. Youâ€™re more likely to hear one before you see it, singing from a perch in a reed bed. They spend the winter in Africa.</p>
+<h2>Red kites</h2>
+<p>
+<img src="/all_images_in_here_please/wildlife/img_5465a.jpg" style="width: 300px; height: 200px; margin-left: 15px; margin-right: 15px; float: right;"/>The red kite, a common bird in medieval times, suffered greatly in the latter half of the 19th and early 20th century. Numbers fell to just a relict population restricted to the uplands of Mid Wales. Through the dedicated work of a small band of volunteers, and latterly by the combined efforts of the statutory bodies and RSPB, the population was saved.</p>
+<p>The Red Kite Feeding CentreÂ in the remote western area of our Park attracts over 50 red kites and buzzards every day in a spectacular aerial display.Â </p>
+<p>As natural scavengers, red kites benefit from the food provided, which is made available in limited quantities.</p>
+<p>This regular feeding has helped the red kite breeding population maintain its stronghold in the area and increase its numbers. In Wales 20 years ago there were less than 30 breeding pairs of kites but now, with careful management and protection, there are now well over 300 pairs.</p>
+<h3>Visiting the Red Kite Feeding Centre</h3>
+<p>The centre is open to the public. You don't need to book. Feeding time is 3pm daily during British Summer Time and 2pm daily for the rest of the year. Admission charges apply.</p>
+<h4>How to get there</h4>
+<p>The Red Kite CafÃ©, Llanddeusant, formerly the Cross Inn, is 13km west of Trecastle. Turn off the A40 by the Castle Coach Inn in Trecastle or follow the sign from the A4069 Brynaman to Llandovery Road at Pont-ar-Llechau. The hide is 175m from The Red Kite CafÃ©.</p>
+<h4>OS grid reference</h4>
+<p>Explorer Map OL12 or Landranger Map 160 - SN771265</p>
+<h4>Contact</h4>
+<p>Red Kite Feeding Centre, The Red Kite CafÃ©, Llanddeusant, Llangadog SA19 9YG, tel 01550 740617,Â 
+<a href="http://www.redkiteswales.co.uk" target="_blank">www.redkiteswales.co.uk</a></p>
+<h4>Parking</h4>
+<p>Limited parking is available outside The Red Kite.</p>
+<h4>Toilets</h4>
+<p>In The Red Kite CafÃ©. The closest disabled access toilets are at Sennybridge, Brynamman or Llandovery.</p>
+<h4>Accessibility</h4>
+<p>The hide is wheelchair-accessible.</p>
+<h2>Find out more</h2>
+<p>The Royal Society for the Protection of Birds (RSPB),
+<a href="http://www.rspb.org.uk" target="_blank">www.rspb.org.uk</a>, has find information on all the important bird species to be found in the Brecon Beacons National Park. Youâ€™ll also find information and photos on the Arkive website,
+<a href="http://www.arkive.org" target="_blank">www.arkive.org</a>.</p>
+
+<!--SearchEnd//-->
+<div class="hightlights"/></div></body></html>

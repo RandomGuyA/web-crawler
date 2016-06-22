@@ -1,0 +1,23 @@
+<?php require_once "../../php/init.php"; ?><html><head><meta charset="utf-8"><title>Amphibians and fish - Brecon Beacons National Park, Wales</title><script type='text/javascript' src='../../js/main.min.js'></script></head><body><div class="main-content clearfix">
+<!--SearchStart//-->
+<h1>Amphibians and fish in the Brecon Beacons National Park</h1>
+<div class="article-video right clearfix"/>
+<p/><p>
+<span style="font-size:18px;">The waterways of the Brecon Beacons National Park are rich in freshwater species.</span></p>
+<h2>
+<img src="/website/var/tmp/thumb_1722__auto_bcac88b5f9447fe6ed3b63a4cdb234f4.jpeg" style="width: 704px; height: 567px; margin: 15px; float: right;"/>Great crested newts</h2>
+<p>The largest of our three native newt species, the great crested newt is unmistakable. They can be found anywhere in the Brecon Beacons National Park, but are particularly common in ponds around Brecon.</p>
+<p>While usually thought of as pond animals, great crested newts are only pond residents during the breeding season in spring. During the rest of the year they might be found in stone and log piles, hedgerows, dense vegetation or practically anywhere that offers shade and damp. Great crested newts are protected in UK and European law.</p>
+<h2>Salmon</h2>
+<p>This is the fish that cause all the fuss on our rivers! A mature salmon leaping waterfalls and forging its way upriver to spawn is a splendid sight.</p>
+<p>Having spent much of its adult life circuiting the Atlantic Ocean, an adult salmon miraculously returns to the river where it was born, to reproduce. Whilst heading upstream, salmon donâ€™t feed, making angling for salmon a skilful activity.</p>
+<p>In late autumn, the female salmon spawns (lays eggs) in a redd, a stony nest in a gravel bank on the bed of a small river. It will lay about 1000 eggs for each kilogramme of its bodyweight. These will be fertilised by a male salmon and buried for safety. Only about one in five adults survive to return alive to the sea.</p>
+<p>Once the eggs hatch, they become alevin, dependent on yoke sacs during the winter. Next, they become independent fry. At the end of their first summer they become parr, which live in the river for up to four years, when they become smolt and head for the Atlantic.</p>
+<p>Salmon populations have been decline for some time. Although the eggs are well buried in their redds, please be careful when near upstream gravel beds and avoid disturbing nesting sites with poles, paddles and wellies. For much of the river stage of their lives the young fish are nocturnal and little affected by people enjoying water recreation.</p>
+<h2>White-clawed crayfish</h2>
+<p>The white-clawed crayfish, a protected species of freshwater lobster, is the only crayfish native to the UK. They are present in many rivers and streams in the Brecon Beacons National Park, but they are under threat from direct predation by an alien species, the signal crayfish (introduced from North America), which is also a carrier of crayfish disease.</p>
+<p>White-clawed crayfish need our help to survive this double onslaught. Please donâ€™t help spread the disease or its host. Whatever youâ€™ve been doing, before going from one river to another, dry your equipment and/or boat thoroughly or give a good wipe over with diluted household bleach â€“ not too much of a chore, but a lifesaver for the crayfish!</p>
+<div>Â </div>
+
+<!--SearchEnd//-->
+<div class="hightlights"/></div></body></html>

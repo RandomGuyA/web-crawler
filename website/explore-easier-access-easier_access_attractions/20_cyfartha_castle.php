@@ -1,0 +1,37 @@
+<?php require_once "../../php/init.php"; ?><html><head><meta charset="utf-8"><title>20 Cyfarthfa Castle, Museum &amp; Gallery - Brecon Beacons National Park, Wales</title><script type='text/javascript' src='../../js/main.min.js'></script></head><body><div class="main-content clearfix">
+<!--SearchStart//-->
+<h1>20. Cyfarthfa Castle, Museum &amp; Gallery</h1>
+<div class="article-video right clearfix"/>
+<p/><p class="documentDescription" style="margin: 0em 0em 0.5em; line-height: 1.5em; font-weight: bold; color: rgb(85, 85, 85); font-family: 'Lucida Grande', Verdana, Lucida, 'Lucida sans', Helvetica, Arial, sans-serif; font-size: 13px; text-align: center;">Â </p>
+<p class="documentDescription" style="margin: 0em 0em 0.5em; line-height: 1.5em; font-weight: bold; color: rgb(85, 85, 85); font-family: 'Lucida Grande', Verdana, Lucida, 'Lucida sans', Helvetica, Arial, sans-serif; font-size: 13px;">
+<span style="color:#008000;"><span id="parent-fieldname-description">Cyfarthfa Castle is surrounded by parkland. The main building includes displays on history of iron making, collection of 19th century paintings, pottery &amp; porcelain, eastern antiques, brass bands and changing temporary exhibitions.</span></span></p>
+<div id="parent-fieldname-text" style="color: rgb(68, 68, 68); font-family: 'Lucida Grande', Verdana, Lucida, 'Lucida sans', Helvetica, Arial, sans-serif; font-size: 13px;">
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
+<span style="color:#008000;"><strong>Further information</strong></span></p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">The main entrance has a flight of wide steps with a ramp at the side of the building. Most of the exhibits are on one level with a stair lift to exhibitions in the basement. Most of the paths in the grounds have a tarmac surface and the circular route in the park has some shallow slopes. There are resting points along the paths and a picnic area. Some of the routes in the park have vehicle access. Wheelchair users may require assistance to enter the building.</p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
+<span style="color:#008000;"><strong>How to get there:</strong></span>Â Cyfarthfa Castle is situated alongside the A4054 north of Merthyr Tydfil.</p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">Â </p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
+<span style="color:#008000;"><strong>Nearest town/Village</strong>:</span>Merthyr Tydfil.</p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">Â </p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
+<span style="color:#008000;"><strong>OS Grid Reference:Â </strong></span>Explorer Map OL12 or Landranger Map 160 -Â 
+<span style="color:#008000;"><strong>SO 042 074.</strong></span></p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">Â </p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
+<span style="color:#008000;"><strong>Contact:Â </strong></span>For more details telephone 01685Â 723112 orÂ 
+<a href="mailto:museum@merthyr.gov.uk"><span style="color:#008000;"><span style="border-bottom-width: 1px; border-bottom-color: rgb(32, 53, 149); border-bottom-style: solid;">email</span>.</span></a></p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">Â </p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
+<span style="color:#008000;"><strong>Facilities:Â </strong></span>Please phone for opening times and other accessibility details. Admission is free and there is also a cafÃ© providing traditional Welsh fayre. A wheelchair is available for loan. There is a bus service from Merthyr Tydfil bus station which has links from mid and south Wales.</p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">Â </p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
+<span style="color:#008000;"><strong>Parking:</strong></span>Â Car parking in front of the main Castle building.</p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">Â </p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
+<span style="color:#008000;"><strong>Toilets:</strong></span>Â These are located in the main building and in the grounds (RADAR NKS toilet).</p></div>
+<br/>
+
+<!--SearchEnd//-->
+<div class="hightlights"/></div></body></html>

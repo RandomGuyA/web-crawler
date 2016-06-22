@@ -1,0 +1,45 @@
+<?php require_once "../../php/init.php"; ?><html><head><meta charset="utf-8"><title>Dinefwr Castle  - Brecon Beacons National Park, Wales</title><script type='text/javascript' src='../../js/main.min.js'></script></head><body><div class="main-content clearfix">
+<!--SearchStart//-->
+<h1>Dinefwr Castle</h1>
+<div class="article-video right clearfix"/>
+<p/><p>
+<span style="font-size:18px;">This ruined medieval Welsh castle stands upon a high wooded ridge above the meandering River Towy, just west of our National Park.Â </span></p>
+<p>Dinefwr Castle is thought to have been founded in the later 12th century by Lord Rhys ap Gruffudd and remodelled by Edward I in the 13th century. The visible remains date from the 13th and earlier 14th centuries.</p>
+<p>It was a regional capital until the earlier 15th century, but was later replaced by Newton House, a little north. By the 17th century it had become a picturesque, romantic attraction within Dinefwr Park. The top of the great tower was taken down and replaced by a summerhouse.</p>
+<p>The castle consists of two enclosures defined by deep rock-hewn ditches cutting across the summit of the ridge. The inner enclosure has a high curtain wall and is approached by a lower walled barbican. The great round tower, some 12m across, is now a two storey stump crowned by the remains of the 17th century summerhouse. There are ruins of fine towered lodgings along the northeast curtain and a smaller round tower at the northern angle.</p>
+<p>The castle is now a Grade I listed, scheduled monument.</p>
+<h2>Visiting Dinefwr Castle</h2>
+<p>Dinefwr stands in woodland within Dinefwr Park, an estate owned by the National Trust which also includes Newton House, a 17th century mansion with a Victorian facade, surrounded by a deer park. The castle is managed by Cadw. Admission charges apply.</p>
+<h3>How to get there</h3>
+<p>The castle is just outside the Brecon Beacons National Park, off the A483, one mile west of Llandeilo.</p>
+<h3>OS grid reference</h3>
+<p>SN611521</p>
+<h3>Opening times</h3>
+<p>Daily, 10amâ€“4pm</p>
+<h3>Contact</h3>
+<p>Dinefwr, Llandeilo, Carmarthenshire SA19 6RT, tel 01558 824512,
+<a href="http://www.nationaltrust.org.uk" target="_blank">www.nationaltrust.org.uk</a></p>
+<h3>Facilities</h3>
+<p>Tea room serving local produce and shop at Newton House</p>
+<h3>Parking</h3>
+<p>At Newton House</p>
+<h3>Toilets</h3>
+<p>At Newton House, including accessible toilets</p>
+<h3>Accessibility</h3>
+<p>Ramped entrance to ground floor of Newton House. Two wheelchairs available to book in advance.</p>
+
+<!--SearchEnd//-->
+<div id="map" class="content-map clearfix" style=" width: 704px;  height: 400px; ">
+<!--        <a href="#" class="close-map">Close Map</a>--></div><!--event-map//-->
+<script type="text/javascript"><![CDATA[$(document).ready(function() {
+        var locations = [{"id":"dinefwr_castle","type":"generic","lat":51.87683,"lon":-4.01842,"popup":{"title":"Dinefwr Castle","image":null,"text":"","url":null}}];
+        var layers = null;
+        var controls = ["Attribution","Navigation","PanZoomBar"];
+        var bounds = null;
+        var centre = {"id":"dinefwr_castle","type":"generic","lat":51.87683,"lon":-4.01842};
+        var zoom_level = 6; 
+        if (typeof(Maps) !== 'undefined') {
+   Maps.loadLargeMap(locations, layers, controls, bounds, centre, zoom_level);
+  }
+    });]]></script>
+<div class="hightlights"/></div></body></html>

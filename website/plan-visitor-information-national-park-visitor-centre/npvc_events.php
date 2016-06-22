@@ -1,0 +1,33 @@
+<?php require_once "../../php/init.php"; ?><html><head><meta charset="utf-8"><title>Visitor Centre events  - Brecon Beacons National Park, Wales</title><script type='text/javascript' src='../../js/main.min.js'></script></head><body><div class="main-content clearfix">
+<!--SearchStart//-->
+<h1>National Park Visitor Centre events programme</h1>
+<div class="article-video right clearfix"/>
+<p><br/>Â 
+<br/>Saturday 24
+<sup>th</sup>October to Sunday 1
+<sup>st</sup>November 2015 10:00-16:00 every day
+<br/>
+<strong>Arts and Crafts Fayre</strong><br/>Free entry. Come and browse a wide selection of arts and crafts at the National Park Visitor Centre throughout the school half term. Many are made locally, and all are individually hand-made pieces to treasure. Car parking charges apply.Â 
+<br/>Â 
+<br/>Friday 11
+<sup>th</sup>December 19:00-23:00
+<br/>
+<strong>Christmas Stargazing</strong><br/>On Friday 11
+<sup>th</sup>December 2014, the jewel in the sky will be the Geminid meteor shower and we will also give a presentation on the Christmas Star. Dark Sky Wales with their mobile planetarium will take you on a virtual tour of the heavens, and hopefully the skies will be crisp and clear we can also use the telescopes and binoculars to guide you around the heavens and spot those all-important Geminids.
+<br/>Call the National Park Visitor Centre on 01874 623366 to book your place. Tickets are Â£12 which includes a jacket potato. The event will start at 7pm for 7.30pm until 11pm. These events sell out very quickly, so call now to book your place.
+<br/>Â 
+<br/>Sat and Sunday 12
+<sup>th</sup>and 13
+<sup>th</sup>December 10:00-16:00
+<br/>
+<strong>Traditional Christmas Fayre</strong><br/>Come and join us at the NPVC for our traditional Christmas Fayre. Carol singing, mulled wine and mince pies, unique Christmas crafts and Wreath and Decoration making workshops just to name but a few of the exciting things on offer. You could even buy your Christmas tree! Free entry and free parking so come along and get festive.
+<br/>Â 
+<br/>Saturday 19
+<sup>th</sup>December to Sunday 3
+<sup>rd</sup>January 2016 10:00-16:00 every day
+<br/>
+<strong>Arts and Crafts Fayre</strong><br/>Free entry. Come and browse a wide selection of arts and crafts at the National Park Visitor Centre throughout the school half term. Many are made locally, and all are individually hand-made pieces to treasure. Car parking charges apply.Â 
+<br/>Â 
+<br/></p>
+<!--SearchEnd//-->
+<div class="hightlights"/></div></body></html>

@@ -1,0 +1,52 @@
+<?php require_once "../../php/init.php"; ?><html><head><meta charset="utf-8"><title>Watersports instructors and guides - Brecon Beacons National Park, Wales</title><script type='text/javascript' src='../../js/main.min.js'></script></head><body><div class="main-content clearfix">
+<!--SearchStart//-->
+<h1>Watersports Guides and Instructors</h1>
+<div class="article-video right clearfix"/>
+<p/>
+<!--SearchEnd//-->
+<div class="hightlights">
+<div class="business-listing">
+<h2 class="fancy-title">LOCAL BUSINESSES
+<span class="localBusinessCount">6 of 19</span></h2>
+<div class="filters-top">
+<p class="filters-selected"><!-- Business Types - Activity<br />Activity Type - Canoeing & kayaking <span style="font-style:italic;">or</span> Sailing <span style="font-style:italic;">or</span> Stand up paddleboarding <span style="font-style:italic;">or</span> Raft building//--></p>
+<a class="view-more hasArrow" href="/search/?filters[type][activity]=1&amp;filters[activity][activity_type][3491]=1&amp;filters[activity][activity_type][3490]=1&amp;filters[activity][activity_type][3435]=1&amp;filters[activity][activity_type][2903]=1&amp;fromPage=1">See all local businesses</a></div>
+<ul class="section-boxes clearfix">
+<li class="business-activity hasPhoto">
+<a href="/businesses/2766"/><h3><a href="/businesses/2766">Interactivities Outdoor Adventure</a></h3>
+<div class="section-box jagged">
+<img src="/website/var/tmp/thumb_4983__landing_page_highlights.jpeg" alt=""/>
+<p>Established in 1995 and going strong.
+As a small company with over 30 year...</p></div>
+</li>
+<li class="business-activity hasPhoto">
+<a href="/businesses/6284"/><h3><a href="/businesses/6284">Llangorse Boat Hire</a></h3>
+<div class="section-box jagged">
+<img src="/website/var/tmp/thumb_6489__landing_page_highlights.jpeg" alt=""/>
+<p>We hire rowing and fishing boats on Llangorse Lake, we also hire kayaks, st...</p></div>
+</li>
+<li class="business-activity ">
+<a href="/businesses/2659"/><h3><a href="/businesses/2659">Activity Breaks Wales</a></h3>
+<div class="section-box jagged">
+<p/></div>
+</li>
+<li class="business-activity ">
+<a href="/businesses/2669"/><h3><a href="/businesses/2669">Beacon Park Day Boats</a></h3>
+<div class="section-box jagged">
+<p/></div>
+</li>
+<li class="business-activity ">
+<a href="/businesses/3515"/><h3><a href="/businesses/3515">Merthy Tydfil  Sailing Club</a></h3>
+<div class="section-box jagged">
+<p/></div>
+</li>
+<li class="business-activity hasPhoto">
+<a href="/businesses/2780"/><h3><a href="/businesses/2780">Mountain &amp; Water</a></h3>
+<div class="section-box jagged">
+<img src="/website/var/tmp/thumb_4374__landing_page_highlights.jpeg" alt=""/>
+<p>What would be your ideal outdoor adventure?
+
+Paddle a canoe gently along ...</p></div>
+</li></ul>
+<div class="filters-bottom">
+<a class="view-more hasArrow" href="/search/?filters[type][activity]=1&amp;filters[activity][activity_type][3491]=1&amp;filters[activity][activity_type][3490]=1&amp;filters[activity][activity_type][3435]=1&amp;filters[activity][activity_type][2903]=1&amp;fromPage=1">See all local businesses</a></div></div></div></div></body></html>

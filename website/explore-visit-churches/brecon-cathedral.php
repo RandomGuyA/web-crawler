@@ -1,0 +1,43 @@
+<?php require_once "../../php/init.php"; ?><html><head><meta charset="utf-8"><title>Brecon Cathedral - Brecon Beacons National Park, Wales</title><script type='text/javascript' src='../../js/main.min.js'></script></head><body><div class="main-content clearfix">
+<!--SearchStart//-->
+<h1>Brecon Cathedral</h1>
+<div class="article-video right clearfix"/>
+<p/><p>
+<span style="font-size:18px;">This magnificent eleventh century cathedral is most often visited for its beautiful choir, vaulting and stained glass windows depicting Welsh saints.</span></p>
+<p>
+<img src="/website/var/tmp/thumb_930__auto_ae045f8170caf26d186a41f0a2d77e1a.jpeg" style="width: 704px; height: 467px; margin-top: 15px; margin-bottom: 15px; float: right;"/>Brecon Cathedral houses the largest Norman font in Britain and the regimental chapel of the South Wales Borderers, who won renown in the Zulu War. The cathedral also contains a rare Breeches Bible. The sixteenth century tithe barn is now a Heritage Centre with reconstructions, audio-visual displays and a craft shop. There is an excellent restaurant and tea room in the cathedral grounds and an outstanding programme of musical events.</p>
+<h2>Visiting Brecon Cathedral</h2>
+<h3>How to get there</h3>
+<p>The cathedral is just off the B4520, Priory Hill, 750m from Brecon town centre. By bus, take route 40B.</p>
+<h3>OS grid reference</h3>
+<p>Explorer Map OL12 or Landranger Map 160 â€“ SO044290</p>
+<h3>Opening times</h3>
+<p>Daily, 8.30amâ€“6.30pm</p>
+<h3>Contact</h3>
+<p>Brecon Cathedral, The Cathedral Close, Brecon LD3 9DP, tel 01874 623857,
+<a href="http://www.breconcathedral.org.uk" target="_blank">www.breconcathedral.org.uk</a></p>
+<h3>Facilities</h3>
+<p>Pilgrims Tea Rooms and Restaurant (tel 01874 610610,
+<a href="http://www.pilgrims-tearooms.co.uk" target="_blank">www.pilgrims-tearooms.co.uk</a>), alongside the Heritage Centre in the Cathedral Close, uses locally sourced ingredients.</p>
+<h3>Parking</h3>
+<p>There is a car park next to the cathedral and access to the cathedral is through a narrow kissing gate.</p>
+<h3>Toilets</h3>
+<p>The toilets, including a disabled access toilet are situated next to Pilgrims.</p>
+<h3>Accessibility</h3>
+<p>The gate from the car park can be widened by releasing four latches at ground level. All buildings are accessible, with a ramp into the cathedral itself.</p>
+
+<!--SearchEnd//-->
+<div id="map" class="content-map clearfix" style=" width: 704px;  height: 400px; ">
+<!--        <a href="#" class="close-map">Close Map</a>--></div><!--event-map//-->
+<script type="text/javascript"><![CDATA[$(document).ready(function() {
+        var locations = [{"id":"brecon_cathedral","type":"generic","lat":51.95127,"lon":-3.392014,"popup":{"title":"Brecon Cathedral","image":"\/website\/var\/tmp\/thumb_1224__auto_99207c46db90809c650fbb6aa6d5253f.jpeg","text":"Cathedral Close, Brecon, Powys LD3 9DP","url":null}}];
+        var layers = null;
+        var controls = ["Attribution","Navigation","PanZoomBar"];
+        var bounds = null;
+        var centre = {"id":"brecon_cathedral","type":"generic","lat":51.95127,"lon":-3.392014};
+        var zoom_level = 9; 
+        if (typeof(Maps) !== 'undefined') {
+   Maps.loadLargeMap(locations, layers, controls, bounds, centre, zoom_level);
+  }
+    });]]></script>
+<div class="hightlights"/></div></body></html>

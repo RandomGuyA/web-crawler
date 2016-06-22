@@ -198,17 +198,16 @@ function deleteAndGetLineFromFile ($fileName, $delete){
     $out = array();
     $link= '';
 
-    foreach($data as $line) {
+    $tempHtml = fopen("temp.txt", "w");
 
-        $arr = str_split($line);
-        foreach($arr as $char){
-            if(ord($char)=="E2809D"){
-                echo "<br/>" . ord($char);
-            }
 
+    foreach($data as $key=>$line) {
+
+        fwrite($tempHtml, $line);
+
+        if($key <3){
+            echo "<br/>" . $line;
         }
-
-        //str_replace('”', '"', $line);
         
         if(strpos($line, $delete)){
             $delete = $line;
@@ -226,6 +225,8 @@ function deleteAndGetLineFromFile ($fileName, $delete){
         }
     }
 
+    fclose($tempHtml);
+
     $fp = fopen($fileName, "w+");
     flock($fp, LOCK_EX);
     foreach($out as $line) {
@@ -239,5 +240,68 @@ function deleteAndGetLineFromFile ($fileName, $delete){
     fclose($fp);
 
     return $link;
+}
+
+function loadXMLFile($fileName){
+    if (file_exists($fileName)) {
+
+        $xml = simplexml_load_file($fileName);
+
+    } else {
+        exit('Failed to open '. $fileName);
+    }
+    return $xml;
+}
+
+function generatePageInformation($path, $search, $csv){
+    
+    $file = $path;
+    $link = deleteAndGetLineFromFile ($file, $search);
+    $sub_link = explode("link98754-", $link);
+    $link =  $sub_link[count($sub_link)-1];
+
+    $xml = loadXMLFile($file);
+
+    simpleXmlSearch($xml);
+
+    $count = countWordsInfile("data.txt");
+    $handle = fopen ("data.txt", "w+");
+    fclose($handle);
+    $file = str_replace('\\', ',',  $file);
+    $line = "";
+    $line .= $count . ",";
+    $line .= $file . ",\n";
+
+    fwrite($csv, $line);
+}
+
+
+function setupDirectory($path){
+
+    $path = str_replace("\\", "/" ,$path );
+    $split_paths = explode("/", $path);
+    arrayToString($split_paths);
+    
+    $directory = "";
+    
+    foreach($split_paths as $key=>$value){
+        if($key<count($split_paths)-1 && $key>0){
+            $directory .= ($key==1)?"". $value:"-" . $value;
+        }
+    }
+
+    return $directory;
+}
+
+function getFileName($path){
+
+    $path = str_replace("\\", "/" ,$path );
+    $split_paths = explode("/", $path);
+    $fileName = $split_paths[count($split_paths)-1];
+
+    $fileName_split = explode("~", $fileName);
+
+    $file_name = $fileName_split[count($fileName_split)-1];
+    return str_replace(".html", ".php", $file_name);
 
 }

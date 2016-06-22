@@ -1,0 +1,1 @@
+<?php require_once "../../php/init.php"; ?><html><head><meta charset="utf-8"><title>Events - Brecon Beacons National Park, Wales</title><script type='text/javascript' src='../../js/main.min.js'></script></head><body></body></html>

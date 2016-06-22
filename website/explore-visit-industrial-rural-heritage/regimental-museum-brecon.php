@@ -1,0 +1,28 @@
+<?php require_once "../../php/init.php"; ?><html><head><meta charset="utf-8"><title>Regimental Museum of The Royal Welsh, Brecon - Brecon Beacons National Park, Wales</title><script type='text/javascript' src='../../js/main.min.js'></script></head><body><div class="main-content clearfix">
+<!--SearchStart//-->
+<h1>The Regimental Museum of The Royal Welsh, Brecon</h1>
+<div class="article-video right clearfix"/>
+<p/><p>
+<span style="font-size:18px;">Opened in 1935 and formerly known as the South Wales Borderers Museum, this is recognised as one of finest regimental museums in Britain.Â </span></p>
+<p>
+<img src="/website/var/tmp/thumb_961__auto_45f21f0a0e96a52e54c40712a97e5392.jpeg" style="width: 704px; height: 275px; margin-top: 15px; margin-bottom: 15px; float: right;"/>The museum charts the history of the Royal Regiment of Wales, founded in 1689 as the 23rd and 24th Regiments of Foot and subsequently re-named the South Wales Borderers, Welch Regiment and Monmouthshire Regiment. It includes displays relating to the many campaigns they were involved in such as the Zulu War.</p>
+<h2>Visiting The Regimental Museum</h2>
+<p>The museum is open all year except the first three weeks of January. Admission charges apply.</p>
+<h3>How to get there</h3>
+<p>The Museum is on The Watton (B4601) next to the main army barracks in Brecon.</p>
+<h3>OS grid reference</h3>
+<p>Explorer Map OL12 or Landranger Map 160 - SO 049 283</p>
+<h3>Opening times</h3>
+<p>Monâ€“Fri 10amâ€“5pm, Sat (Aprâ€“Sep) 10amâ€“4pm, bank holidays (Aprâ€“Sep) 10amâ€“4pm</p>
+<h3>Contact</h3>
+<p>The Barracks, Watton, Brecon LD3 7EB, tel 01874 613310,
+<a href="http://www.royalwelsh.org.uk" target="_blank">www.royalwelsh.org.uk</a></p>
+<h3>Parking</h3>
+<p>Street parking nearby</p>
+<h3>Toilets</h3>
+<p>The closest toilets, including disabled access toilets are in the town centre car park</p>
+<h3>Accessibility</h3>
+<p>The access to the museum is level</p>
+
+<!--SearchEnd//-->
+<div class="hightlights"/></div></body></html>

@@ -1,0 +1,69 @@
+<?php require_once "../../php/init.php"; ?><html><head><meta charset="utf-8"><title>Getting here - Brecon Beacons National Park, Wales</title><script type='text/javascript' src='../../js/main.min.js'></script></head><body><div class="main-content clearfix">
+<!--SearchStart//-->
+<h1>Getting to the Brecon Beacons National Park</h1>
+<div class="article-video right clearfix">
+<iframe width="375" height="244" src="http://www.youtube.com/embed/d0USZsQtXvU" frameborder="0" allowfullscreen="allowfullscreen"/></div>
+<p/><p>
+<span style="font-size:18px;">Our Park may feel remote, but itâ€™s very well connected. Itâ€™s straightforward to get here by public transport or car.Â </span></p>
+<h2>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>By public transport</h2>
+<h2>
+<img src="/all_images_in_here_please/transport/uk_map.png" style="width: 235px; height: 350px; margin-left: 15px; margin-right: 15px; float: right;"/></h2>
+<p>To look up public transport routes and timetables, contact Traveline Cymru (tel 0871 200 22 33,
+<a href="http://www.traveline-cymru.info" target="_blank">www.traveline-cymru.info</a>).Â </p>
+<h3>Train</h3>
+<p>There are hourly direct trains to Abergavenny on the Cardiff-Manchester line, and good connections from other cities. Itâ€™s now even easier to travel from London to Brecon using a new through ticket on the train and bus. Tickets can be bought at London Paddington, Reading, Swindon and Bristol Parkway which include the journey by train to Cardiff and then the journey by T4 bus all the way to Brecon.</p>
+<a href="http://youtu.be/d0USZsQtXvU">http://youtu.be/d0USZsQtXvU</a><br/>
+<p>There are trains to Merthyr Tydfil from Cardiff and Pontypridd every half hour, taking one hour.</p>
+<p>Llandovery is on the Heart of Wales line, with trains from Llanelli, Swansea and Shrewsbury four times a day.</p>
+<p>For timetables and fares, contact National Rail Enquiries (tel 08457 484950,
+<a href="http://www.nationalrail.co.uk" target="_blank">www.nationalrail.co.uk</a>). Book ahead for the cheapest tickets.</p>
+<h3>Coach</h3>
+<p>Coach travellers can get to Abergavenny, Cardiff, Neath or Swansea with National Express (
+<a href="http://www.nationalexpress.com" target="_blank">www.nationalexpress.com</a>) or to Cardiff or Swansea with Megabus (
+<a href="http://www.megabus.com" target="_blank">www.megabus.com</a>). Both these companies will carry bikes if packed in boxes, bags or cases.Â </p>
+<h3>Bus</h3>
+<p>Itâ€™s easy to travel to the Brecon Beacons National Park from South Wales and Hereford by bus.</p>
+<p>Regular services runÂ to our National Park daily. The T4 runs from Cardiff to Newtown via Brecon. The X63 runs from Swansea to Brecon.Â 
+<br/>
+<br/>
+<a href="http://www.firstgroup.com/ukbus/south_west_wales/journey_planning/timetables/timetable.php?day=1&amp;source_id=2&amp;service=X55&amp;routeid=13039701&amp;operator=24&amp;source=sp">The X55 Cymru Clipper</a>Â service from Swansea and Neath now runs to Pontneddfechan, serving both the Angel Inn and Dinas Rock, providing easy access to Waterfall Country.</p>
+<h3>Explore Wales Pass</h3>
+<p>The
+<a href="http://www.arrivatrainswales.co.uk/ExploreWales/ExploreWalesPass" target="_blank">Explore Wales Pass</a>, available in advance from railway stations and agents, offers unlimited travel on all rail services and most local bus services in Wales. It can be used on all local bus services in and around the Brecon Beacons National Park including Beacons Buses, except services 1, 2, 442, T2 and X75.</p>
+<p>The pass is valid for a period of eight consecutive days. Trains can be used on four of these days and buses can be used on all eight days. Â </p>
+<p>With certain exceptions, rail services cannot be used before 9.15am on Mondays to Fridays and journeys must be completed by midnight.Â </p>
+<p>The pass includes rail services on the following routes:</p>
+<ul>
+<li>Chester to Crewe, North Wales and Shrewsbury</li>
+<li>Shrewsbury to Aberystwyth, Chester, Crewe, Newport and Swansea</li>
+<li>Newport to Lydney and Shrewsbury</li></ul>
+<p>Pass holders are entitled to discounted rates at the following:</p>
+<ul>
+<li>Welsh tourist railways (exceptions apply)</li>
+<li>City Sightseeing buses (exceptions apply)</li>
+<li>Cadw Welsh Historic Monuments</li>
+<li>National Trust properties and gardens (exceptions apply)</li>
+<li>Youth Hostel Association accommodation</li></ul>
+<h2>By car</h2>
+<p>The Brecon Beacons National Park is within easy reach of the M4, M50 and A40.</p>
+<p>For directions and an estimate of your journey time, search the AA journey planner (
+<a href="http://www.theaa.com/route-planner" target="_blank">www.theaa.com/route-planner</a>).</p>
+<h2>Travelling to the Brecon Beacons National Park from outside the UK?</h2>
+<p>The nearest airport to the Brecon Beacons National Park is the well-connected Cardiff International Airport (
+<a href="http://www.cardiff-airport.com" target="_blank">www.cardiff-airport.com</a>), which is only an hour away.</p>
+<p>If you fly into London Gatwick, London Heathrow or any of the UK regional airports, itâ€™s easy to continue your journey to our National Park by train or road. For options, contact Traveline Cymru (tel +44 871 200 22 33,Â 
+<a href="http://www.traveline-cymru.info" target="_blank">www.traveline-cymru.info</a>).</p>
+<p>There are regular ferry services from Ireland to Holyhead, Fishguard and Swansea.</p>
+
+<!--SearchEnd//-->
+<h2 class="fancy-title">You might also be interested in...</h2>
+<ul class="section-boxes"/>
+<div class="hightlights"/></div></body></html>

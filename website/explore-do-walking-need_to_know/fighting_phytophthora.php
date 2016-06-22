@@ -1,0 +1,52 @@
+<?php require_once "../../php/init.php"; ?><html><head><meta charset="utf-8"><title>Phytophthora - Brecon Beacons National Park, Wales</title><script type='text/javascript' src='../../js/main.min.js'></script></head><body><div class="main-content clearfix">
+<!--SearchStart//-->
+<h1>Phytophthora</h1>
+<div>
+<span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">As you walk in the Brecon Beacons National Park, you may see some areas where trees and plants have been cut back. These areas of clear felling are part of efforts to combat
+<em>Phytophthora</em>, a fungus like organism that causes disease in shrubs like bilberry, rhododendron, viburnum and camellia and trees such as larch, magnolia, beech, and horse chestnut.Â </span></span></div>
+<div>Â </div>
+<h4>
+<span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">Help us to stop the spread of Phytophthora by following these simple steps:</span></span></h4>
+<div>Â </div>
+<div>
+<strong><span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">Please keep to marked paths in woodlands</span></span></strong></div>
+<div>
+<span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">This helps reduce the chances of picking up contaminated soil and plant debris on footwear.</span></span></div>
+<div>Â </div>
+<div>
+<strong><span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">Pay attention to site notices</span></span></strong></div>
+<div>
+<span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">Infected areas may be signed or cordoned off.</span></span></div>
+<div>Â </div>
+<div>
+<strong><span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">Clean your footwear</span></span></strong></div>
+<div>
+<span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">Remove soil and plant debris from your shoes or boots after each visit.</span></span></div>
+<div>Â </div>
+<div>
+<strong><span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">Clean the tires of bikes and vehicles</span></span></strong></div>
+<div>
+<span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">If youâ€™ve been off road, remove soil and plant debris from your tires.</span></span></div>
+<div>Â </div>
+<div>
+<strong><span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">Donâ€™t take plants or cuttings</span></span></strong></div>
+<div>
+<span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">Taking plants home risks introducing the infection to your own garden.</span></span></div>
+<div>Â </div>
+<h4>
+<span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">How to spot it</span></span></h4>
+<div>
+<span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">Symptoms can vary with the type of plant infected. On shrubs, typical symptoms can include blackening of leaves around the midrib and at the tips, and/or wilting and dieback of shoots. Trees can show black lesions (called cankers) on the bark, which â€˜bleedâ€™ a dark sap.</span></span></div>
+<div>Â </div>
+<div>
+<span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">Report any suspected findings of
+<em>Phytophthora</em>to The Food and Environment Research Agency, by calling 01904 465625 or emailing planthealth.info@fera.gsi.gov.uk.Â </span></span></div>
+<div>Â </div>
+<div>
+<span style="font-size:14px;"><span style="font-family:trebuchet ms,helvetica,sans-serif;">To find out more about
+<em>Phytophthora</em>, please visit
+<a href="http://www.fera.defra.gov.uk/plants/plantHealth/pestsDiseases/phytophthora/">The Food and Environment Research Agency website</a>.</span></span></div>
+<div>Â </div>
+<!--SearchEnd//-->
+<div class="hightlights"/>
+<div class="hightlights"/></div></body></html>

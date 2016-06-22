@@ -1,0 +1,33 @@
+<?php require_once "../../php/init.php"; ?><html><head><meta charset="utf-8"><title>Craig Cerrig-Gleisiad a Fan Frynych - Brecon Beacons National Park, Wales</title><script type='text/javascript' src='../../js/main.min.js'></script></head><body><div class="main-content clearfix">
+<!--SearchStart//-->
+<h1>Craig Cerrig-Gleisiad a Fan Frynych National Nature Reserve</h1>
+<div class="article-video right clearfix"/>
+<p/><p>
+<span style="font-size:18px;">This upland reserve lies in the heart of the Brecon Beacons National Park and dramatically illustrates, on a huge scale, the glacial processes that carved our fantastic landscape. Cattle and sheep now graze among the steep sided crags, sharp escarpments and huge lumpy moraines. The area also contains the remains of an Iron Age village and a Roman road and tollhouse.</span></p>
+<p>Although surrounded by the classic wide, open spaces of the Beacons, Craig Cerrig-Gleisiad a Fan Frynych is solitary and self-contained. Within just a few hundred metres of the A470 Merthyr Tydfil to Brecon road, visitors find themselves enclosed within a shady, atmospheric amphitheatre created by the soaring, craggy cliffs of Craig Cerrig-Gleisiad. A second, equally spectacular curtain of cliffs at Craig Cwm-Du is separated from Craig Cerrig-Gleisiad by the lofty, exposed moorlands of Fan Frynych.</p>
+<h2>Shaped by ice</h2>
+<p>The reserveâ€™s dramatic appearance â€“ its steep-sided crags and lumpy, bumpy lower slopes â€“ was created by the action of ice around 20,000 years ago. During the Ice Age, the snowfield that collected in the north-facing slopes eventually turned into a glacier.</p>
+<p>The scooping and grinding action of the ice carved the 150m high cliffs and escarpments we see today. And when the glacier eventually retreated it deposited the debris within it to create what are known as moraines â€“ the mounds and hillocks that are clearly visible in the bowl beneath Craig Cerrig-Gleisiadâ€™s dark crags. These are the tide marks left by the melting ice.</p>
+<h2>Arctic survivors</h2>
+<p>Craig Cerrig-Gleisiad y Fan Frynychâ€™s character was moulded by ice and cold. Today, it still retains something of its ancient chill and original harsh atmosphere. It is a high place, at an altitude rising from around 300m to over 600m. Its north-facing slopes rarely see the sun â€“ in winter they seem to be in permanent shade.</p>
+<p>It is because of these conditions that rare arctic-alpine plants â€“ the NNRâ€™s prized botanical feature â€“ still grow here. Plants such as purple saxifrage and mossy saxifrage survive at their southern limit in Britain (and do not reappear again until the Alps), clinging to the reserveâ€™s ledges, gullies and crags. Their inaccessibility has also contributed to their survival, so you are asked not to climb the steep crags or screes for a closer view â€“ please bring binoculars.</p>
+<p>The cliffs of Craig Cwm-Du are noted for their populations of Welsh poppies.</p>
+<h2>A rich wildlife</h2>
+<p>Despite the reserveâ€™s tough, mountainous setting it is home to a surprisingly rich wildlife. The arctic-alpines are some of over 500 plants that have been recorded here. The cliffs are, in effect, a vertical woodland with trees and shrubs that include hawthorn, rowan, mountain ash and rare whitebeams. Dwarf shrubs such as heather and bilberry grow on the slopes and moorlands above.</p>
+<p>Around 80 different bird species either visit or breed in the reserve. Peregrine falcons nest on the cliffs The raven, secretive merlin and rare red kite can also be seen in the skies, the latter especially at Craig Cwm-Du. Summer visitors include wheatears, ring ouzels, skylarks and chaffinches. Considering the altitude, the reserve also has a respectable butterfly population, 16 species having been recorded here.</p>
+<h2>Man-made</h2>
+<p>These wild mountains have been influenced, and to some extent tamed, by the hand of man. Walk up into Craig Cerrig-Gleisiadâ€™s bowl following the line of the stream and you will come to a flattened-off shelf of land that was an Iron Age settlement, its boundary wall still clearly visible. This area was also inhabited in medieval times by farmers who spent the summer here with their grazing stock, leaving evidence of house platforms and field patterns. The Roman road of Sarn Helen runs alongside Craig Cwm-Du. Higher up, Fan Frynychâ€™s plateau is pockmarked with hollows form which stone was quarried for roofing and walling hundreds of years ago.</p>
+<p>Farming has also had an effect on this landscape, though nowhere near as much as the green, intensely grazed pastures you see across the valley from Craig Cerrig-Gleisiad. In summer, Welsh black cattle graze here. They keep the bracken in check by trampling it down, though it is also controlled by manual methods. Some sheep also graze on the reserve.</p>
+<h2>Visiting Craig Cerrig-Gleisiad a Fan Frynych</h2>
+<p>The reserve is open to the public. Access is free. Some of the paths are steep and pass close to the cliff edges. The weather can change rapidly. Walkers should wear appropriate footwear and take care. Between May and October the reserve is grazed by cattle and sheep. Please keep dogs under close control.</p>
+<p>The reserve offers a number of excellent walking options. Most visitors start from the lay-by and main entry point a few miles north of Storey Arms on the A470. For a short walk, follow the path beside the stream into Craig Cerrig-Gleisiadâ€™s bowl, returning on a circular loop.</p>
+<p>For a longer walk there are paths that lead upwards to the plateau of Fan Frynych and across to Craig Cwm-Du.</p>
+<h3>How to get there</h3>
+<p>The main entry point is from a large lay-by some seven miles southwest of Brecon and two miles north of the Storey Arms on the A470. Buses on the Merthyr to Brecon route stop nearby.</p>
+<h3>Nearest town</h3>
+<p>Brecon</p>
+<h3>OS grid reference</h3>
+<p>SN956227</p>
+
+<!--SearchEnd//-->
+<div class="hightlights"/></div></body></html>

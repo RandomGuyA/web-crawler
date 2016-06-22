@@ -1,0 +1,28 @@
+<?php require_once "../../php/init.php"; ?><html><head><meta charset="utf-8"><title>32 Crickhowell: Bullpit Meadows walk - Brecon Beacons National Park, Wales</title><script type='text/javascript' src='../../js/main.min.js'></script></head><body><div class="main-content clearfix">
+<!--SearchStart//-->
+<h1>32. A stroll around Bullpit Meadows, Crickhowell</h1>
+<div class="article-video right clearfix"/>
+<p/><div>
+<span style="color: rgb(105, 105, 105);"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">Bullpit Meadows is close to the bridge over the River Usk at Crickhowell. The meadows are well used by local people and visitors for walking and recreation.</span></span></span><br/>
+<br/>
+<strong><span style="color: rgb(51, 153, 0);"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">Further information</span></span></span></strong><br/>
+<span style="color: rgb(105, 105, 105);"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">Seats and picnic benches can be found along the path. The tarmac path runs alongside the River Usk for 370 metres. The path continues past the footbridge for another 500 metres, but is uneven, not very wide and it can be muddy.</span></span></span><br/>
+<br/>
+<strong><span style="color: rgb(51, 153, 0);"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">How to get there:</span></span></span></strong><span style="color: rgb(105, 105, 105);"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">The path starts by the traffic lights opposite the Bridgend Inn. You will have to cross short but steep flood defences to get to the main path.</span></span></span><br/>
+<br/>
+<strong><span style="color: rgb(51, 153, 0);"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">Nearest town or village:</span></span></span></strong><span style="color: rgb(105, 105, 105);"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">Crickhowell.</span></span></span><br/>
+<br/>
+<strong><span style="color: rgb(51, 153, 0);"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">OS Grid Reference:</span></span></span></strong><span style="color: rgb(105, 105, 105);"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">Explorer Map OL 13 or Landranger Map 161 - SO 215 183.</span></span></span><br/>
+<br/>
+<strong><span style="color: rgb(51, 153, 0);"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">Distance:</span></span></span></strong><span style="color: rgb(105, 105, 105);"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">Up to 870 metres.</span></span></span><br/>
+<br/>
+<strong><span style="color: rgb(51, 153, 0);"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">Contact:</span></span></span></strong><span style="color: rgb(105, 105, 105);"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">Crickhowell Resource and Information Centre 01873 811970</span></span></span><br/>
+<br/>
+<strong><span style="color: rgb(51, 153, 0);"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">Facilities:</span></span></span></strong><span style="color: rgb(105, 105, 105);"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">Crickhowell is a small, busy town with shops, cafes, restaurants and pubs. There is a bus service from Abergavenny and Brecon.</span></span></span><br/>
+<br/>
+<strong><span style="color: rgb(51, 153, 0);"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">Parking:</span></span></span></strong><span style="color: rgb(105, 105, 105);"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">The closest car parking is pay and display, 800 metres away behind Clarence Hall in the centre of town. There is a small lay-by on the B4558 on the south side of the bridge, 150 metres from the entrance to the meadows.</span></span></span><br/>
+<br/>
+<strong><span style="color: rgb(51, 153, 0);"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">Toilets:</span></span></span></strong><span style="color: rgb(105, 105, 105);"><span style="font-family: trebuchet ms,helvetica,sans-serif;"><span style="font-size: 14px;">The nearest toilets, including disabled access (RADAR) toilets, are at the Crickhowell Resource and Information Centre by the side of the A40, 800 metres away and adjacent to the pay and display parking described above.</span></span></span></div>
+
+<!--SearchEnd//-->
+<div class="hightlights"/></div></body></html>

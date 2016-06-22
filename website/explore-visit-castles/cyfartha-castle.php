@@ -1,0 +1,46 @@
+<?php require_once "../../php/init.php"; ?><html><head><meta charset="utf-8"><title>Cyfartha Castle - Brecon Beacons National Park, Wales</title><script type='text/javascript' src='../../js/main.min.js'></script></head><body><div class="main-content clearfix">
+<!--SearchStart//-->
+<h1>Cyfarthfa Castle, Museum and Gallery</h1>
+<div class="article-video right clearfix"/>
+<p/><p>
+<span style="font-size:18px;">Surrounded by beautiful parkland, this 19th century extravagance serves as a reminder of the Ironmasters' former dominance over Merthyr Tydfil and the wealth the iron industry brought to the area. Its museum houses a fantastic collection of artefacts spanning 2000 years of local history.</span></p>
+<p>The wealthy Ironmaster William Crawshay commissioned Cyfarthfa Castle, a grand mansion in the style of a castellated fortress, in 1824. It overlooked his immensely successful ironworks and has been called the most impressive monument of the Industrial Iron Age in South Wales.</p>
+<p>Part of the ground floor is now a museum and gallery which houses extensive fine art, decorative art and social and industrial history collections.</p>
+<p>The gallery includes Swansea, Nantgarw and Wedgwood porcelain and art by Penry Williams and George Frederick Harris, the grandfather of Rolf Harris.</p>
+<p>The atmospheric museum charts the rise of this once great iron-making town. Here, you can learn about Richard Trevithick's Penydarren Locomotive of 1804, the first locomotive to pull a load along rails. Discover the roots of the Labour movement, from the Merthyr Rising of 1831, and the martyrdom of Dic Penderyn, to the first Labour MP, Keir Hardie. The first steam whistle, the first voting ballot box and dresses by Laura Ashley and Julien McDonald are all on display. Finally, see curiosities from around the world including Ancient Egyptian treasures.</p>
+<h2>Visiting Cyfarthfa Castle</h2>
+<p>Admission to the castle, museum, gallery and park is free.</p>
+<h3>How to get there</h3>
+<p>Cyfarthfa Castle is situated off the A4054 north of Merthyr Tydfil. To locate it by sat nav, use postcode CF47 8PA.Â There is a bus service from Merthyr Tydfil bus station which has links from Mid and South Wales.</p>
+<h3>Nearest town or village</h3>
+<p>Merthyr Tydfil</p>
+<h3>OS grid reference</h3>
+<p>Explorer Map OL12 or Landranger Map 160 - SO042074</p>
+<h3>Opening times</h3>
+<p>Aprâ€“Sep daily 10amâ€“5.30pm; Oct â€“ Mar Tueâ€“Fri 10amâ€“4pm, Satâ€“Sun 12noonâ€“4pm, Mon closed</p>
+<h3>Contact</h3>
+<p>Cyfarthfa Castle, Brecon Road, Merthyr Tydfil CF47 8RE, tel 01685 723112</p>
+<h3>Facilities</h3>
+<p>There is a cafÃ© providing traditional Welsh fare.</p>
+<h3>Parking</h3>
+<p>In front of the main Castle building.</p>
+<h3>Toilets</h3>
+<p>These are located in the main building and in the grounds (RADAR NKS toilet).</p>
+<h3>Accessibility</h3>
+<p>The main entrance has a flight of wide steps with a ramp at the side of the building. Most of the exhibits are on one level with a stair lift to exhibitions in the basement. Most of the paths in the grounds have a tarmac surface and the circular route in the park has some shallow slopes. There are resting points along the paths and a picnic area. Some of the routes in the park have vehicle access. Wheelchair users may require assistance to enter the building. A wheelchair is available for loan.</p>
+
+<!--SearchEnd//-->
+<div id="map" class="content-map clearfix" style=" width: 704px;  height: 400px; ">
+<!--        <a href="#" class="close-map">Close Map</a>--></div><!--event-map//-->
+<script type="text/javascript"><![CDATA[$(document).ready(function() {
+        var locations = [{"id":"cyfarthfa_castle","type":"generic","lat":51.75666,"lon":-3.39014,"popup":{"title":"Cyfarthfa Castle","image":null,"text":"","url":null}}];
+        var layers = null;
+        var controls = ["Attribution","Navigation","PanZoomBar"];
+        var bounds = null;
+        var centre = {"id":"cyfarthfa_castle","type":"generic","lat":51.75666,"lon":-3.39014};
+        var zoom_level = 6; 
+        if (typeof(Maps) !== 'undefined') {
+   Maps.loadLargeMap(locations, layers, controls, bounds, centre, zoom_level);
+  }
+    });]]></script>
+<div class="hightlights"/></div></body></html>

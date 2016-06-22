@@ -1,0 +1,26 @@
+<?php require_once "../../php/init.php"; ?><html><head><meta charset="utf-8"><title>Bats - Brecon Beacons National Park, Wales</title><script type='text/javascript' src='../../js/main.min.js'></script></head><body><div class="main-content clearfix">
+<!--SearchStart//-->
+<h1>Bats in the Brecon Beacons National Park</h1>
+<div class="article-video right clearfix"/>
+<p/><p>
+<span style="font-size:18px;">Britain is home to 16 different species of bat, several of which live within the Brecon Beacons National Park. One of the UKâ€™s largest populations of the rare lesser horseshoe bat can be found in the Usk Valley.</span></p>
+<p>
+<img src="/website/var/tmp/thumb_1135__auto_033ef2ede12572acea8aa1172bafef15.jpeg" style="width: 350px; height: 516px; margin-left: 15px; margin-right: 15px; float: right;"/>Bats, the only true flying mammals, account for nearly 25 per cent of the 4500 mammal species found worldwide.Â </p>
+<p>Both bats and their roosts are legally protected, so care must be taken to determine whether they are present when planning development work in rural areas. They often live in houses entirely unnoticed, as they are generally very clean animals which donâ€™t cause damage by nibbling through wires or dropping food or nesting material.</p>
+<h2>Pipistrelles</h2>
+<p>These are the bats most likely to be seen in British gardens, parks and rural woodlands and hedges. There are three species of pipistrelle in the UK. They mostly feed on insects â€“ a single pipistrelle can consume up to 3000 midges in one night! In winter, they hibernate in buildings.</p>
+<h2>Greater horseshoe bats</h2>
+<p>The greater horseshoe bat is one of the largest bats in the UK. During the summer they form maternity colonies which generally roost in large old buildings and forage in pasture, hedgerows and the fringes of mixed deciduous woodland. In winter, they depend on caves, abandoned mines and other underground sites such as cellars.</p>
+<h2>Lesser horseshoe bats</h2>
+<p>The lesser horseshoe bat is one of the smallest British bats. They favour sheltered valleys with extensive deciduous woods or dense scrub close to roost sites. Where their habitat is fragmented, linear features such as hedgerows and rivers are important corridors between roosts and foraging areas. In winter, they hibernate in caves, mines and other cave-like places.</p>
+<h2>Noctules</h2>
+<p>One of the largest British bats, the noctule is a fast and powerful flier, often seen out in the open and before sunset on summer evenings. Noctules are rarely found in buildings, preferring to roost in trees. They have declined across Britain, probably due to the loss of large trees and hedgerows in which to roost and feed.</p>
+<h2>Find out more</h2>
+<p>General information about bats is available from the Bat Conservation Trust (BCT),
+<a href="http://www.bats.org.uk" target="_blank">www.bats.org.uk</a>and Natural Resources Wales,
+<a href="http://www.naturalresourceswales.gov.uk" target="_blank">www.naturalresourceswales.gov.uk</a>. There are photos of British bats on the Arkive website,
+<a href="http://www.arkive.org" target="_blank">www.arkive.org</a>.</p>
+<div>Â </div>
+
+<!--SearchEnd//-->
+<div class="hightlights"/></div></body></html>

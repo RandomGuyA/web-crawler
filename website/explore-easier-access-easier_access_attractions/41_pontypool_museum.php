@@ -1,0 +1,36 @@
+<?php require_once "../../php/init.php"; ?><html><head><meta charset="utf-8"><title>41 Pontypool Museum - Brecon Beacons National Park, Wales</title><script type='text/javascript' src='../../js/main.min.js'></script></head><body><div class="main-content clearfix">
+<!--SearchStart//-->
+<h1>41. Pontypool Museum</h1>
+<div class="article-video right clearfix"/>
+<p/><p class="documentDescription" style="margin: 0em 0em 0.5em; line-height: 1.5em; font-weight: bold; color: rgb(85, 85, 85); font-family: 'Lucida Grande', Verdana, Lucida, 'Lucida sans', Helvetica, Arial, sans-serif; font-size: 13px;">
+<span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="color:#008000;"><span id="parent-fieldname-description">Pontypool Museum has changing exhibitions relating to the industrial, cultural &amp; social history of this South Wales valley as well as an art gallery. The museum is housed in a Georgian stable block with a cobbled courtyard. All areas are on one level and fully accessible.</span></span></span></p>
+<div id="parent-fieldname-text" style="color: rgb(68, 68, 68); font-family: 'Lucida Grande', Verdana, Lucida, 'Lucida sans', Helvetica, Arial, sans-serif; font-size: 13px;">
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
+<span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="color:#008000;"><strong>Further information</strong></span></span></p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
+<span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="color:#008000;"><strong>How to get there:Â </strong></span>Pontypool is on the south-eastern edge of the National Park. The museum is next to Pontypool Park close to the town centre.</span></p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">Â </p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
+<span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="color:#008000;"><strong>Nearest town or village:Â </strong></span>Pontypool.</span></p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">Â </p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
+<span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="color:#008000;"><strong>OS Grid Reference:Â </strong></span>Explorer Map OL13 or Landranger 161-
+<strong>Â 
+<span style="color:#008000;">SO 283 011.</span></strong></span></p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">Â </p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
+<span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="color:#008000;"><strong>Contact:</strong>Â </span>For details and opening times telephoneÂ 01495Â 752036 or visit
+<a href="http://pontypoolmuseum.org.uk/"><span style="color:#008000;">Pontypool Museum</span></a></span></p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">Â </p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
+<span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="color:#008000;"><strong>Facilities:</strong></span>Â There is an onsite cafÃ© and gift shop.</span></p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">Â </p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
+<span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="color:#008000;"><strong>Parking:</strong>Â </span>The museum car park has a sloping entrance and is surfaced with flattened cobbles, but it is close to the building.</span></p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">Â </p>
+<p style="margin: 0px 0px 0.75em; line-height: 1.5em;">
+<span style="font-family:trebuchet ms,helvetica,sans-serif;"><span style="color:#008000;"><strong>Toilets:</strong>Â </span>There are toilets in the building including a disabled access toilet.</span></p></div>
+<br/>
+
+<!--SearchEnd//-->
+<div class="hightlights"/></div></body></html>

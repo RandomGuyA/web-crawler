@@ -1,0 +1,25 @@
+<?php require_once "../../php/init.php"; ?><html><head><meta charset="utf-8"><title>The Angel Hotel, Abergavenny - Brecon Beacons National Park, Wales</title><script type='text/javascript' src='../../js/main.min.js'></script></head><body><div class="main-content clearfix">
+<!--SearchStart//-->
+<h1>The Angel Hotel, Abergavenny</h1>
+<div class="article-video right clearfix"/>
+<p/><p>
+<span style="font-size:18px;">A local favourite for afternoon tea, cocktails or dinner.</span></p>
+<p>
+<img src="/website/var/tmp/thumb_2477__auto_311af19abc4e734e1112a9010dea3b1d.jpeg" style="height: 450px; width: 300px; margin-left: 15px; margin-right: 15px; float: right;"/></p>
+<h2>Afternoon tea in the Wedgewood Room</h2>
+<p>Tea at The Angel is something very special indeed. Each morning, specialist bakers prepare the savouries, sandwiches, cakes and scones that are presented on tiered stands. An extensive selection of over twenty loose leaf teas and infusions is offered.</p>
+<h2>The Oak Room</h2>
+<p>Adorned with contemporary artwork, The Oak Room offers rich, warm, refined surroundings. Chef Wesley Hammond leads The Angelâ€™s talented culinary team to provide guests with a memorable dining experience.</p>
+<h2>The Foxhunter Bar</h2>
+<p>With an eclectic mix of leather sofas, vintage settles and wooden tables, the Foxhunter, Abergavenny's premier bar, has a traditional ambience with a modern twist. It features real ales, interesting wines, classic cocktails and bar meals.</p>
+<h2>The Courtyard</h2>
+<p>During warmer weather, the secluded Courtyard becomes a favourite spot with diners. Open all day and candlelit in the evening, it is located in the centre of the hotel and fringed with plants.</p>
+<h2>Awards and accolades</h2>
+<p>The Angel Hotel is a member of the prestigious UK Tea Guild having won an Award of Excellence every year since 2008. Only nine hotels outside of London have achieved this. In 2011 The Angel Hotel were proud recipients of The Tea Guildâ€™s top national award, the Oscar of the tea world. The restaurant has an AA rosette and an award-winning wine list.</p>
+<h2>Opening hours</h2>
+<p>Daily for bar snacks, lunch, afternoon tea 3â€“5.30pm, drinks and dinner.</p>
+<address>
+<a href="http://www.breconbeacons.org/businesses/3141">The Angel H</a><span style="font-size: 12px;"><a href="http://www.breconbeacons.org/businesses/3141">otel,</a>15 Cross Street, Abergavenny NP7 5EN, Wales, tel 01873 857121,Â </span></address>
+
+<!--SearchEnd//-->
+<div class="hightlights"/></div></body></html>
